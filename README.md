@@ -5,5 +5,5 @@ The Simon game is the exciting game of colours and sounds in which players must 
 I have done this project with HTML, CSS, JavaScript with JQuery library.
 
 # 
-https://shrutikattewar.github.io/SimonGame/
+[Simon Game](https://shrutikattewar.github.io/SimonGame/)
 
